@@ -20,9 +20,8 @@ img {
 }
 
 p {
-  padding: 1rem;
+  padding: 10px;
   background-color: rgb(238, 140, 156);
-  
   margin: 1rem;
   cursor: pointer;
 }
