@@ -11,47 +11,47 @@ document.getElementsByTagName("p")[8].addEventListener("click", nine);
 
 let sound = document.getElementsByTagName("audio")[0];
 
-function one(){
+function one() {
     sound.src = "./sounds/Vinheta tome rodrigo faro.mp3";
     sound.play();
 }
 
-function two(){
+function two() {
     sound.src = "./sounds/Ui - Efeito Sonoro.mp3";
     sound.play();
 }
 
-function three(){
+function three() {
     sound.src = "./sounds/[EFEITO SONORO] ELE GOSTA RODRIGO FARO.mp3"
     sound.play();
 }
 
-function four(){
+function four() {
     sound.src = "./sounds/programa-hora-do-faro.mp3"
     sound.play();
 }
 
-function five(){
+function five() {
     sound.src = "./sounds/cavalo-rodrigo-faro.mp3"
     sound.play();
 }
 
-function six(){
+function six() {
     sound.src = "sounds/efeito-sonoro.mp3"
     sound.play();
 }
 
-function seven(){
+function seven() {
     sound.src = "sounds/efeito-sonoro.mp3"
     sound.play();
 }
 
-function eight(){
+function eight() {
     sound.src = "sounds/efeito-sonoro.mp3"
     sound.play();
 }
 
-function nine(){
+function nine() {
     sound.src = "sounds/efeito-sonoro.mp3"
     sound.play();
 }
