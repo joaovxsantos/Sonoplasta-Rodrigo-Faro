@@ -25,3 +25,7 @@ p {
   margin: 1rem;
   cursor: pointer;
 }
+
+h1{
+  text-align: center;
+}

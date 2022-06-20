@@ -42,16 +42,16 @@ function six() {
 }
 
 function seven() {
-    sound.src = "sounds/efeito-sonoro.mp3"
+    sound.src = "sounds/xiiii-rodrigo-faro.mp3"
     sound.play();
 }
 
 function eight() {
-    sound.src = "sounds/efeito-sonoro.mp3"
+    sound.src = "sounds/pare.mp3"
     sound.play();
 }
 
 function nine() {
-    sound.src = "sounds/efeito-sonoro.mp3"
+    sound.src = "sounds/atumalaca.mp3"
     sound.play();
 }
